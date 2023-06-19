@@ -1,9 +1,9 @@
-'''def profit(a):
+o'''def profit(a):
     n=len(a)
     d1=int(input('enter buy day '))
     d2=int(input('enter sold day'))
     for i in range(n):
-        
+        hello ji
            p=a[d2]-a[d1]
     print (p)
 a=profit([100,180,260,310,40,535,695]) '''
